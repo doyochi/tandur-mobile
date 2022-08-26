@@ -8,6 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="green_theme1">#7CBD1E</color>
+
     <color name="gradient1">#7CBD1E</color>
     <color name="gradient2">#92C72B</color>
     <color name="gradient3">#A7D038</color>

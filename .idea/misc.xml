@@ -6,7 +6,8 @@
         <entry key="..\:/Users/HP/Documents/Tandur/Tandur_1/app/src/main/res/drawable/gradient_tandur.xml" value="0.1935" />
         <entry key="..\:/Users/HP/Documents/Tandur/Tandur_1/app/src/main/res/font/open_sans_bold.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/HP/Documents/Tandur/Tandur_1/app/src/main/res/layout/activity_splash_screen.xml" value="0.18541666666666667" />
-        <entry key="..\:/Users/HP/Documents/Tandur/Tandur_1/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/HP/Documents/Tandur/Tandur_1/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Users/HP/Documents/Tandur/Tandur_1/app/src/main/res/layout/fragment_register.xml" value="0.25" />
       </map>
     </option>
   </component>

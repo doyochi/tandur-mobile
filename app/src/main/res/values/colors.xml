@@ -13,4 +13,6 @@
     <color name="gradient1">#7CBD1E</color>
     <color name="gradient2">#92C72B</color>
     <color name="gradient3">#A7D038</color>
+    <color name="text1">#4A4A4A</color>
+    <color name="text2">#828282</color>
 </resources>

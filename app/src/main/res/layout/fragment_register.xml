@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toBottomOf="@id/txt_register_judul"
-        app:layout_constraintBottom_toTopOf="@id/tbox_username"
+        app:layout_constraintBottom_toTopOf="@id/tbox_nama"
         android:layout_margin="40dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -106,7 +106,8 @@
         <AutoCompleteTextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="none"/>
+            android:inputType="none" />
+<!--        gabisa coy gimana ini-->
 
     </com.google.android.material.textfield.TextInputLayout>
 
